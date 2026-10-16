@@ -1,0 +1,22 @@
+{
+    "subjects": [
+        "Math"
+    ],
+    "tasks": [
+        {
+            "title": "Python Assignment",
+            "subject": "Computer",
+            "due date": "10-09-2026",
+            "priority": "High",
+            "status": "completed"
+        }
+    ],
+    "study_sessions": [
+        {
+            "subject": "Math",
+            "duration": 34,
+            "date": "16-10-2026"
+        }
+    ],
+    "student_profile": {}
+}
