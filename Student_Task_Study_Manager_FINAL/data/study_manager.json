@@ -1,0 +1,41 @@
+{
+    "subjects": [
+        "opp",
+        "cs"
+    ],
+    "tasks": [
+        {
+            "title": "Python Assignment",
+            "subject": "Computer",
+            "due date": "10-09-2026",
+            "priority": "High",
+            "status": "completed"
+        },
+        {
+            "title": "cs",
+            "subject": "se",
+            "due date": "2-3-2026",
+            "priority": "low",
+            "status": "pending"
+        }
+    ],
+    "study_sessions": [
+        {
+            "subject": "Math",
+            "duration": 34,
+            "date": "16-10-2026"
+        },
+        {
+            "subject": "opp",
+            "duration": 43,
+            "date": "21-10-2026"
+        }
+    ],
+    "student_profile": {
+        "name": "Abdul Ahad",
+        "roll_no": "1234",
+        "semester": "5th",
+        "program": "SE",
+        "photo": "C:/Users/Administrator/Downloads/WhatsApp Image 2026-10-16 at 2.44.00 PM.jpeg"
+    }
+}
